@@ -7,7 +7,9 @@ Follow the instructions provided in each instruction file regarding the target O
 
 Platforms
 - [Android](android/README.md)
-- [iOS](ios/README.md)
 - [Android AppCenter](appcenter/android.md)
+- [iOS](ios/README.md)
+- [iOS AppCenter](appcenter/ios.md)
+
 
 Copyright (c) 2020 MSTecs

@@ -1,5 +1,5 @@
 # Welcome
-This file contains examples to create CI/CD experiences for Android target.
+This file contains examples to create CI experiences for Android target.
 
 The first task is upload our android repository if we want to keep track inside Azure DevOps, but we can use other sources instead.
 
