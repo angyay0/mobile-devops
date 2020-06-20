@@ -3,7 +3,7 @@ This file contains examples to create CI/CD experiences for Android target.
 
 The first task is upload our android repository if we want to keep track inside Azure DevOps, but we can use other sources instead.
 
-### Continuous Integration
+## Continuous Integration
 When we create a new project, is required to specify what is going to be the target OS and the base technology, we can change it later.
 !["Project Setup"](img/00.png "Project Setup")
 !["Project Configuration"](img/a_01.png "Project Configuration")
@@ -23,6 +23,6 @@ For generate a signed apk, we must provision the jks file and credentials for si
 Last step is save and queue pipeline and check results
 !["Save Pipeline"](img/a_06.png "Save Pipeline")
 
-### Continuous Delivery
+## Continuous Delivery
 For accomplish this task, we can distribute using AppCenter mechanism for sending to a group or groups and connect to store
 !["Results"](img/a_07.png "Results")

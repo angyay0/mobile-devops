@@ -3,7 +3,7 @@ This file contains examples to create CI experiences for Android target.
 
 The first task is upload our android repository if we want to keep track inside Azure DevOps, but we can use other sources instead.
 
-### Continuous Integration
+## Continuous Integration
 The first thing is connecting the repo, we can choose from different sources.
 !["Repo Connection"](img/00.png "Repo Connection")
 
@@ -26,5 +26,5 @@ Build Results
 
 
 
-### Continuous Delivery
+## Continuous Delivery
 Currently exist some steps, but for integrating with Official Stores we highly recommend working with AppCenter CD.
